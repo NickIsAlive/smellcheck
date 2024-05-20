@@ -1,5 +1,5 @@
 import streamlit as st
-import folium
+python3 -m pip install folium
 from streamlit_folium import folium_static
 import pandas as pd
 import duckdb
